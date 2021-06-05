@@ -22,3 +22,9 @@ Problem faced while installing driver for usb buster in Windows 10, Run windows 
 ![image](https://user-images.githubusercontent.com/49076977/120885376-32d73480-c606-11eb-873a-19b6bbc73a33.png)
 
 
+![image](https://user-images.githubusercontent.com/49076977/120888853-35428a00-c618-11eb-99a8-32a66f5ce3a2.png)
+
+
+![image](https://user-images.githubusercontent.com/49076977/120888886-530fef00-c618-11eb-832a-4a3f6160e8ec.png)
+
+
