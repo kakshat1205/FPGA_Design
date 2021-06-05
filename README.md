@@ -8,3 +8,14 @@ Many open source FPGAs are also available other than these 2, one of the in ICQ 
 
 
 ![image](https://user-images.githubusercontent.com/49076977/120885123-ec350a80-c604-11eb-91f7-56c84a9c687a.png)
+
+
+![image](https://user-images.githubusercontent.com/49076977/120885321-f1468980-c605-11eb-9966-4cf8eef69abf.png)
+
+
+![image](https://user-images.githubusercontent.com/49076977/120885343-091e0d80-c606-11eb-8d27-68e1a82e19fc.png)
+
+
+![image](https://user-images.githubusercontent.com/49076977/120885376-32d73480-c606-11eb-873a-19b6bbc73a33.png)
+
+
