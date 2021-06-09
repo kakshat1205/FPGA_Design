@@ -16,10 +16,8 @@ Problem faced while installing driver for usb buster in Windows 10, Run windows 
 ![image](https://user-images.githubusercontent.com/49076977/120885321-f1468980-c605-11eb-9966-4cf8eef69abf.png)
 
 
-![image](https://user-images.githubusercontent.com/49076977/120885343-091e0d80-c606-11eb-8d27-68e1a82e19fc.png)
+![Pinagem-RZ-EasyFPGA](https://user-images.githubusercontent.com/49076977/121412202-10d10f80-c982-11eb-9fa5-0d32687f6bf6.jpg)
 
-
-![image](https://user-images.githubusercontent.com/49076977/120885376-32d73480-c606-11eb-873a-19b6bbc73a33.png)
 
 
 ![image](https://user-images.githubusercontent.com/49076977/120888853-35428a00-c618-11eb-99a8-32a66f5ce3a2.png)
