@@ -1,0 +1,6 @@
+- 8-bit data bus
+- 16-bit address bus
+- Eight 8-bit general purpose registers which can be used in pairs as four 16-bit registers.
+- Instructions formatted as shown in Table 1.
+- Instruction set as shown in Table 2.
+- Jump condition codes as shown in Table 3.
