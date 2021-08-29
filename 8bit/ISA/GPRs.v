@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
-// fpga4student.com 
-// FPGA projects, VHDL projects, Verilog projects 
-// Verilog code for RISC Processor 
-// Verilog code for register file
+
 module GPRs(
  input    clk,
  // write port
