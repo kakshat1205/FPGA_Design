@@ -1,7 +1,4 @@
-// fpga4student.com 
-// FPGA projects, VHDL projects, Verilog projects 
-// Verilog code for RISC Processor 
-// Verilog code for ALU
+
 module ALU(
  input  [15:0] a,  //src1
  input  [15:0] b,  //src2
